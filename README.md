@@ -139,6 +139,7 @@ All sensors are grouped under a single **CTEK CS ONE** device.
 
 ---
 <img width="1036" height="1150" alt="image" src="https://github.com/user-attachments/assets/1882f4ab-b16e-487d-83e7-79582145c8e4" />
+
 ---
 
 ## Reverse Engineering Notes
@@ -156,6 +157,16 @@ All data characteristics are big-endian uint16 values unless otherwise noted. Th
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+## Compatibility
+
+This configuration was developed and tested on the **CTEK CS ONE Gen 2** (with WiFi). 
+
+The **CTEK CS ONE Gen 1** (Bluetooth only) may also work as if uses the same GATT 
+service structure, however this is untested. If you test this 
+with a Gen 1 device please open an issue or PR with your findings.
 
 ---
 
