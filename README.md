@@ -82,7 +82,7 @@ The BLE connection is exclusive — the CTEK app on your phone cannot connect wh
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ctek-cs1-esphome
+   git clone https://github.com/zeg064/CTEK-CS-One---ESP-BLE-Gateway
    cd ctek-cs1-esphome
    ```
 
